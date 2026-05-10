@@ -1,2 +1,1 @@
-# My-First-Project
-My very first GitHub repository – learning with Grok
+This is the first repository, created by Grok at my behest, that I'm going to use to finally get a good handle on Github
